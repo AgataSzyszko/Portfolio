@@ -25,6 +25,8 @@ Hi, my name's Agata Szyszko.
 
 * Karolina Pawłowska, Natalia Pawlak, *Podróż przez świat testowania. Fun with bugs*
 
-# Podasts
+# Podcasts
 
 * [Norbert Jankowski *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
+* <a href="https://podcasttestowanie.pl/" target="_blank">Norbert Jankowski *Testowanie Oprogramowania Podcast*</a>
+
