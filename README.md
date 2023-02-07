@@ -19,4 +19,12 @@ Hi, my name's Agata Szyszko.
 
 # Courses
 
-Testuj.pl - Akademia Testowania
+* Testuj.pl - Akademia Testowania
+
+# Books
+
+* Karolina Pawłowska, Natalia Pawlak, *Podróż przez świat testowania. Fun with bugs*
+
+# Podasts
+
+* Norbert Jankowski *Testowanie Oprogramowania Podcast*
