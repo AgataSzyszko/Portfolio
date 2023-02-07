@@ -1,5 +1,21 @@
 # Portfolio
+
 My Tester's Portfolio
-# O mnie
-Cześć, nazywam się Agata Szyszko.
-# Narzędzia
+
+# About Me
+
+Hi, my name's Agata Szyszko.
+
+# Tools
+
+* Scrum
+* Jira 
+* Qase 
+* TestLink 
+* Mantis
+* Postman 
+* Selenium 
+* SQL
+
+# Courses
+
