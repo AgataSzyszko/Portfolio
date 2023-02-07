@@ -28,5 +28,4 @@ Hi, my name's Agata Szyszko.
 # Podcasts
 
 * [Norbert Jankowski *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
-* <a href="https://podcasttestowanie.pl/" target="_blank">Norbert Jankowski *Testowanie Oprogramowania Podcast*</a>
 
