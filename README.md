@@ -2,30 +2,32 @@
 
 My Tester's Portfolio
 
-# About Me
+# About me
 
 Hi, my name's Agata Szyszko.
 
-# Tools
+# Tools used in testing
 
-* Scrum
 * Jira 
 * Qase 
 * TestLink 
 * Mantis
 * Postman 
 * Selenium 
-* SQL
 
-# Courses
+# My courses
 
 * Testuj.pl - Akademia Testowania
 
-# Books
+* Certificates
+
+* ISTQB Certified Tester Foundation Level
+
+# Books read
 
 * Karolina Pawłowska, Natalia Pawlak, *Podróż przez świat testowania. Fun with bugs*
 
-# Podcasts
+# Podcasts listen
 
 * [Norbert Jankowski *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
 
