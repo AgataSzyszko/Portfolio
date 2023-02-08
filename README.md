@@ -29,5 +29,5 @@ Hi, my name's Agata Szyszko.
 
 # Podcasts listen
 
-* [Norbert Jankowski *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
+* [Norbert Jankowski, *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
 
