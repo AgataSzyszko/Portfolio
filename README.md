@@ -19,7 +19,7 @@ Hi, my name's Agata Szyszko.
 
 * Testuj.pl - Akademia Testowania
 
-* Certificates
+# Certificates
 
 * ISTQB Certified Tester Foundation Level
 
