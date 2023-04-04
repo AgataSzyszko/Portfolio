@@ -1,8 +1,6 @@
-# Portfolio
+# Agata Szyszko's Software Testing Portfolio
 
-My Tester's Portfolio
-
-# About me
+## About me
 
 Hi, my name's Agata Szyszko.
 
