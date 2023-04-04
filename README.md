@@ -2,7 +2,7 @@
 
 ## What You'll Find Here 
 
-* My collection of API requests for Postman testing tool
+* My collection of API requests for Postman.
 
 ## Tools used in testing
 
