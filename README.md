@@ -1,10 +1,12 @@
-# Agata Szyszko's Software Testing Portfolio
-
-## About me
+# Software Testing Portfolio
 
 Hi, my name's Agata Szyszko.
 
-# Tools used in testing
+## What You'll Find Here 
+
+* My collection of API requests for Postman testing tool
+
+## Tools used in testing
 
 * Jira 
 * Qase 
