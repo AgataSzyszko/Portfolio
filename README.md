@@ -2,30 +2,30 @@
 
 ## What You'll Find Here 
 
-* My collection of API requests for Postman.
+* Testing Trello API with Postman. My collection of requests. 
 
-## Tools used in testing
+## Tools
 
 * Jira 
-* Qase 
+* Postman
 * TestLink 
+* Qase
 * Mantis
-* Postman 
 * Selenium 
 
-## My courses
+## Courses
 
 * Testuj.pl - Akademia Testowania
 
 ## Certificates
 
-* ISTQB Certified Tester Foundation Level
+* ISTQB Certified Tester Foundation Level - No19012/CTFL/2022
 
-## Books read
+## Books
 
-* Karolina Pawłowska, Natalia Pawlak, *Podróż przez świat testowania. Fun with bugs*
+* *Podróż przez świat testowania. Fun with bugs* Karolina Pawłowska, Natalia Pawlak
 
-## Podcasts listen
+## Podcasts
 
-* [Norbert Jankowski, *Testowanie Oprogramowania Podcast*](https://podcasttestowanie.pl/)
+* [Testowanie Oprogramowania Podcast](https://podcasttestowanie.pl/) Norbert Jankowski
 
