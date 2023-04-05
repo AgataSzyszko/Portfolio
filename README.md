@@ -2,7 +2,7 @@
 
 ## What You'll Find Here 
 
-* My collection of API requests for testing basic features of Trello's API in Postman.
+* My collection of requests for testing basic features of Trello's API in Postman.
 
 ## Tools I Use
 
