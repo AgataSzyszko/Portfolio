@@ -2,9 +2,9 @@
 
 ## What You'll Find Here 
 
-* Testing Trello API with Postman. My collection of requests. 
+* My collection of API requests for testing basic features of Trello's API in Postman.
 
-## Tools
+## Tools I Use
 
 * Jira 
 * Postman
@@ -21,11 +21,11 @@
 
 * ISTQB Certified Tester Foundation Level - No19012/CTFL/2022
 
-## Books
+## Books I Have Read
 
 * *Podróż przez świat testowania. Fun with bugs* Karolina Pawłowska, Natalia Pawlak
 
-## Podcasts
+## Podcasts I Listen To
 
 * [Testowanie Oprogramowania Podcast](https://podcasttestowanie.pl/) Norbert Jankowski
 
