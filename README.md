@@ -2,7 +2,10 @@
 
 ## What You'll Find Here 
 
-* My collection of requests for testing basic features of Trello's API in Postman.
+### My collection of requests for testing basic features of Trello's API in Postman. 
+* Subject of testing: [Trello](https://trello.com/)
+* API Documentation for the subject of testing: [LINK](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
+* I used HTTP requests: POST, GET, PUT and DELETE.
 
 ## Tools I Use
 
