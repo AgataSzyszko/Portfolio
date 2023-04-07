@@ -27,5 +27,6 @@
 
 ## Podcasts I Listen To
 
-* [Testowanie Oprogramowania Podcast](https://podcasttestowanie.pl/) Norbert Jankowski
+* [Testowanie Oprogramowania - Norbert Jankowski](https://podcasttestowanie.pl/)
+* [ITea Morning - Maciej Wyrodek](https://www.youtube.com/@ITeaMorning/featured)
 
