@@ -1,11 +1,16 @@
 # Software Testing Portfolio
 
-## What You'll Find Here 
+## My Projects
 
-### My collection of requests for testing basic features of Trello's API in Postman. 
+### Collection of requests for testing basic features of Trello's API in Postman. 
 * Subject of testing: [Trello](https://trello.com/)
 * API Documentation for the subject of testing: [LINK](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 * I used HTTP requests: POST, GET, PUT and DELETE.
+
+### Examples of test cases based on specifications.
+* Subject of testing: [Kanban Board](https://kanbanboard.pl/)
+* Application specification: [LINK](https://docs.google.com/document/d/1dJNmQ5cth6uLBZSvkYNc9zBZEFhNNiJbhq86EUTpzmk/edit?usp=sharing)
+* 4 low-level test cases. Functional tests.
 
 ## Tools I Use
 
