@@ -29,9 +29,13 @@
 
 * ISTQB Certified Tester Foundation Level - No19012/CTFL/2022
 
+## Workshops I have participated in
+
+* Warsztaty z testowania na żywo Karolina Pawłowska
+
 ## Books I Have Read
 
-* *Podróż przez świat testowania. Fun with bugs* Karolina Pawłowska, Natalia Pawlak
+* Podróż przez świat testowania. Fun with bugs Karolina Pawłowska, Natalia Pawlak
 
 ## Podcasts I Listen To
 
