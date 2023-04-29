@@ -23,7 +23,7 @@
 
 ## Courses
 
-* Testuj.pl - Akademia Testowania
+* testuj.pl - Akademia Testowania
 
 ## Certificates
 
@@ -31,7 +31,9 @@
 
 ## Workshops I have participated in
 
-* Warsztaty z testowania na żywo Karolina Pawłowska
+* Warsztaty z testowania na żywo Karolina Pawłowska testuj.pl (2 hours)
+
+* Szkolenie Postman Karolina Górska testuj.pl (6 hours)
 
 ## Books I Have Read
 
